@@ -7,13 +7,13 @@
 
 - 👯 I’m looking to collaborate on **Any Laravel Backend projects**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/abdullahshokr/](linkedin)
+- 👨‍💻 All of my projects are available at [LinkedIn](linkedin](https://www.linkedin.com/in/abdullahshokr/)
 
 - 💬 Ask me about **PHP, Laravel, Data structures & Algorithms**
 
 - 📫 How to reach me **abdullahshokr70@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11uxlnn5TerM3-ypPASZpAS9rOZwpQRv-/view?usp=sharing](https://drive.google.com/file/d/11uxlnn5TerM3-ypPASZpAS9rOZwpQRv-/view?usp=sharing)
+- 📄 Know about my experiences [(My Resume / My CV)](https://drive.google.com/file/d/11uxlnn5TerM3-ypPASZpAS9rOZwpQRv-/view?usp=sharing)
 
 - ⚡ Fun fact **I am a petroleum engineer too! :)**
 
