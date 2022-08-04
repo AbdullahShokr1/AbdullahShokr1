@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Any Laravel Backend projects**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/abdullahshokr/](https://www.linkedin.com/in/abdullahshokr/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/abdullahshokr/](linkedin)
 
 - 💬 Ask me about **PHP, Laravel, Data structures & Algorithms**
 
