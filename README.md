@@ -9,13 +9,13 @@
 
 - 👨‍💻 All of my projects are available at [LinkedIn](https://www.linkedin.com/in/abdullahshokr/)
 
-- 💬 Ask me about **PHP, Laravel, Data structures & Algorithms**
+- 💬 Ask me about **PHP, Laravel, SEO ,Python,Data structures & Algorithms**
 
 - 📫 How to reach me **abdullahshokr70@gmail.com**
 
 - 📄 Know about my experiences [(My Resume / My CV)](https://drive.google.com/file/d/11uxlnn5TerM3-ypPASZpAS9rOZwpQRv-/view?usp=sharing)
 
-- ⚡ Fun fact **I am a petroleum engineer too! :)**
+- ⚡ Fun fact *I also specialize in Business Information System too! :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
